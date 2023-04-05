@@ -48,13 +48,14 @@ void ptab_sort(char *ptab[], size_t n) {
 
 // Porzadek odwrotny do alfabetycznego lancuchow zapisanych w tablicy t2D zapisuje w tablicy indices
 void t2D_sort(const char t2D[][STRLEN_MAX], size_t indices[], size_t n) {
+	// TODO
 }
 
 // W wierszach tablicy t2D sa zapisane lancuchy znakowe w dowolnej kolejnosci.
 // Tablica indeksow wierszy indices wyznacza porzadek tych lancuchow.
 // Funkcja wypisuje w osobnych liniach łańcuchy wskazane przez n poczatkowych elementów tablicy indices.
 void print_t2D_ind(const char (*ptr)[STRLEN_MAX], const size_t *pindices, size_t n) {
-	
+	// TODO
 }
 
 // Funkcja wypisuje w osobnych liniach n łańcuchów wskazywanych przez elementy tablicy ptab.
